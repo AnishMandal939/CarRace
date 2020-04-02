@@ -13,6 +13,9 @@ body {
     left: 40%;
     margin-top: 20px;;
     background-color: #292929;
+    border-left: 4px dotted yellow;
+    border-right: 4px dotted yellow;
+    border-end-end-radius: 10px;
     overflow: hidden;
 }
 .line{
